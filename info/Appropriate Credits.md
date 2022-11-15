@@ -17,7 +17,9 @@ Should the app be on any other site, including if you were given written permiss
 
 Site Credit:
 ```
-This version of D&D 4 Android provided by <yourName> was originally developed by Thomas Gallinari for Android 2.2-9 and remastered by Etanarvazac Revorix for Android 10+. You can learn more about these other versions in this app.
+This version of D&D 4 Android provided by <yourName> was originally developed by Thomas Gallinari 
+for Android 2.2-9 and remastered by Etanarvazac Revorix for Android 10+. You can learn more about 
+these other versions in this app.
 ```
 Store Credit:
 ```
