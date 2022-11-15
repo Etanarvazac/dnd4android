@@ -38,11 +38,13 @@ Take your D&D Characters everywhere with your phone! D&D 4 Android will help tra
 - [ ] Character Icon & Preview (you'll be able upload two concept arts to each character, first their head (visible in character list), second their entire body)
 
 ## Open-Source Permissions
-**You have the right to:**
-- Create your own version of D&D 4 Android for **personal** use
-  - Dungeon Masters may create and distibute via Bluetooth or Email only for their campaign, (see `info/Dungeon Master's Guide.md`)
-**You DON'T have the right to:**
-- Distibute custom versions of D&D 4 Android via app stores or other sources not listed without written permission
+**You DO have the right to:**
+- Create your own version of D&D 4 Android for __**personal**__ use
+  - Dungeon Masters may create and distibute via Bluetooth or Email only for their campaign, (see `info/Dungeon Master Guide.md`)
+  
+**You DO NOT have the right to:**
+- Distribute custom versions of D&D 4 Android via app stores or other sources not listed without written permission
+- Distribute custom versions od D&D 4 Android under a different name (e.g.: "D&D For Android", "D&D Companion", "D&D Character Tools", etc)
 - Distribute D&D 4 Android without credit to the original (see `info/Appropriate Credits.md`)
 - Distribute custom versions with the the intent to profit. This includes but is not limited to:
   - Your own advertisements by any ad provider
