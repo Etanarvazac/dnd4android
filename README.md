@@ -43,7 +43,7 @@ Take your D&D Characters everywhere with your phone! D&D 4 Android will help tra
   - Dungeon Masters may create and distibute via Bluetooth or Email only for their campaign, (see "Dungeon Master's Guide.md")
 **You DON'T have the right to:**
 - Distibute custom versions of D&D 4 Android via app stores or other sources not listed without written permission
-- Distribute D&D 4 Android without credit to the original (see "Appropriate Credits.md")
+- Distribute D&D 4 Android without credit to the original (see `info/Appropriate Credits.md`)
 - Distribute custom versions with the the intent to profit. This includes but is not limited to:
   - Your own advertisements by any ad provider
   - Placing a price to install the app
@@ -53,4 +53,4 @@ Take your D&D Characters everywhere with your phone! D&D 4 Android will help tra
 This application is provided "AS IS" and the author(s) disclaims any and all warranties. In no event shall the author be liable for any special, direct, indirect, or consequential damages or any damages whatsoever that result in loss of use, data, or profits, regardless if negligence, contract, or other totious actions are in play and if in or out of connection with the use or performance of this application.
 
 ## Contributers
-Any contributions are much appreciated. The most notable will be listed here. Others will be listed in "CONTRIBUTORS.md", including translators.
+Any contributions are much appreciated. The most notable will be listed here. Others will be listed in `info/CONTRIBUTORS.md`, including translators.
