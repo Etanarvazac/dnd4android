@@ -40,7 +40,7 @@ Take your D&D Characters everywhere with your phone! D&D 4 Android will help tra
 ## Open-Source Permissions
 **You have the right to:**
 - Create your own version of D&D 4 Android for **personal** use
-  - Dungeon Masters may create and distibute via Bluetooth or Email only for their campaign, (see "Dungeon Master's Guide.md")
+  - Dungeon Masters may create and distibute via Bluetooth or Email only for their campaign, (see `info/Dungeon Master's Guide.md`)
 **You DON'T have the right to:**
 - Distibute custom versions of D&D 4 Android via app stores or other sources not listed without written permission
 - Distribute D&D 4 Android without credit to the original (see `info/Appropriate Credits.md`)
