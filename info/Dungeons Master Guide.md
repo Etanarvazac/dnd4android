@@ -8,7 +8,7 @@ First and foremost, your players won't be able to install your version if they a
 2. You can manually make the following changes to the app to install it alongside the official version.
 
 **Android Manafest:**
-You will need to change information regarding the app. For starters, the official version's identifier is `com.revorix.dnd4android`. Should this not be changed, your version won't be installable on any device. The recommended approach is change `com` or `revorix` to your handle or nickname. Using Etanarvazac as an example, `etan.revorix.dnd4android` or `com.etan.dnd4android` would be acceptable by the Android OS. To break this format down, `com` is "Company", `revorix` is user or group name, and `dnd4android` is the friendly identifier name.
+You will need to change information regarding the app. For starters, the official version's identifier is `com.revorix.dnd4android`. Should this not be changed, your version won't be installable on any device. The recommended approach is change `com` or `revorix` to your handle or nickname. Using Etanarvazac as an example, `etan.revorix.dnd4android` or `com.etan.dnd4android` would be acceptable by the Android OS. To break this format down, `com` is "Company", `revorix` is user or group name, and `dnd4android` is the friendly identifier name. However, you will find most companies use the user or group namespace instead of the Company namespace.
 
 #### Notes
 More to this guide will be added over time.
